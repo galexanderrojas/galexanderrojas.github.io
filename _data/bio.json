@@ -3,10 +3,10 @@
     "name": "Alexander Rojas",
     "label": "Student",
     "picture": "https://lmalexander26.github.io/images/newGITpicPNG.png",
-    "email": "molly@hawaii.edu",
-    "phone": "808-333-4444",
+    "email": "galexanderrojas@gmail.com",
+    "phone": "630-849-1177",
     "website": "https://lmAlexander26.github.io",
-    "summary": "I am studying for a B.S. in Computer Science in the Dunham School of Business & Public Policy at Aurora University. I expect to graduate in Spring, 2020.",
+    "summary": "I am studying for a B.S. in Computer Science in the Dunham School of Business & Public Policy at Aurora University. I expect to graduate in Spring, 2021.",
     "location": {
       "address": "",
       "postalCode": "60502",
@@ -18,23 +18,13 @@
       {
         "network": "github",
         "username": "lmAlexander26",
-        "url": "http://github.com/changeme"
+        "url": "http://github.com/lmalexander26"
       },
       {
         "network": "linkedin",
         "username": "mollymaluhia",
         "url": "http://linkedin.com/in/changeme"
       },
-      {
-        "network": "twitter",
-        "username": "mollymal",
-        "url": "http://twitter.com/changeme"
-      },
-      {
-        "network": "instagram",
-        "username": "molly",
-        "url": "http://instagram.com/changeme"
-      }
     ]
   },
   "interests": [
