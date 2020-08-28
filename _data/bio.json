@@ -2,10 +2,10 @@
   "basics": {
     "name": "Alexander Rojas",
     "label": "Student",
-    "picture": "https://lmalexander26.github.io/images/newGITpicPNG.png",
+    "picture": "https://galexanderrojas.github.io/images/newGITpicPNG.png",
     "email": "galexanderrojas@gmail.com",
     "phone": "630-849-1177",
-    "website": "https://lmAlexander26.github.io",
+    "website": "https://galexanderrojas.github.io",
     "summary": "I am studying for a B.S. in Computer Science in the Dunham School of Business & Public Policy at Aurora University. I expect to graduate in Spring, 2021.",
     "location": {
       "address": "",
@@ -17,13 +17,13 @@
     "profiles": [
       {
         "network": "github",
-        "username": "lmAlexander26",
-        "url": "http://github.com/lmalexander26"
+        "username": "galexanderrojas",
+        "url": "http://github.com/galexanderrojas"
       },
       {
         "network": "linkedin",
-        "username": "mollymaluhia",
-        "url": "http://linkedin.com/in/changeme"
+        "username": "galexanderrojas",
+        "url": "http://linkedin.com/in/galexanderrojas"
       },
     ]
   },
@@ -73,8 +73,8 @@
   ],
   "education": [
     {
-      "institution": "University of Hawaii, Honolulu, HI",
-      "area": "Computer Science (expected Spring, 2018)",
+      "institution": "Aurora University, Aurora, IL",
+      "area": "Computer Science (expected Spring, 2021)",
       "studyType": "B.S.",
       "startDate": "2013-09-01",
       "endDate": "Present",
