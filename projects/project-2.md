@@ -14,7 +14,7 @@ labels:
 summary: A responsive web application for schedule tracking that my team developed in CSC 3700.
 ---
 
-<img class="ui medium right floated rounded image" src="../images/AUTrackerHomepage.png.png">
+<img class="ui medium right floated rounded image" src="../images/AUTrackerHomepage.png">
 
 Vacay is a web application that I helped create as a team project in ICS 415, Spring 2015. The project helped me learn how to design and implement a responsive web site.
 
